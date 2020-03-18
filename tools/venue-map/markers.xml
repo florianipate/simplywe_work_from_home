@@ -1,0 +1,177 @@
+<markers>
+	
+	<!-- ENGLAND-->
+	<marker lat="51.420589" lng="-0.838114" county="Berkshire" venue="Cantley House Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-berkshire/cantley-house-hotel.php"/>
+    <marker lat="51.413173" lng="-1.270594" county="Berkshire" venue="Regency Park Hotel" url="https://www.ukweddingsavings.co.uk/wedding-venues-in-berkshire/regency-park-hotel.php"/>
+	<marker lat="51.660579" lng="-0.902186" county="Buckinghamshire" venue="The Kings Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-buckinghamshire/the-kings-hotel.php"/>
+	<marker lat="51.681189" lng="-0.554704" county="Buckinghamshire" venue="De Vere Latimer Estate" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-buckinghamshire/de-vere-latimer-estate.php"/>
+	<marker lat="53.377205" lng="-2.221523" county="Cheshire" venue="De Vere Cheadle House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-cheshire/de-vere-cheadle-house.php"/>
+	<marker lat="53.025041" lng="-1.542524" county="Derbyshire" venue="Shottle Hall Estate" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-derbyshire/coach-house-marquee.php"/>
+    <marker lat="53.025570" lng="-1.543244" county="Derbyshire" venue="Coach House Marquee" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-derbyshire/shottle-hall-estate.php"/>
+	<marker lat="51.640715" lng="0.091367" county="Essex" venue="Woolston Manor Country Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-essex/woolston-manor-country-club.php"/>
+	<marker lat="51.670700" lng="-1.899520" county="Gloucestershire" venue="De Vere Cotswold Water Park" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-gloucestershire/de-vere-cotswold-water-park.php"/>
+	<marker lat="51.630762" lng="-2.444952" county="Gloucestershire" venue="De Vere Tortworth Court" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-gloucestershire/de-vere-tortworth-court.php"/>
+	<marker lat="51.688436" lng="-0.056472" county="Hertfordshire" venue="De Vere Theobalds Estate" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hertfordshire/de-vere-theobalds-estate.php"/>
+    <marker lat="51.727938" lng="-0.470025" county="Hertfordshire" venue="Shendish Manor Hotel" url="https://www.ukweddingsavings.co.uk/wedding-venues-in-hertfordshire/shendish-manor-hotel.php"/>
+    <marker lat="51.812126" lng="0.115526" county="Hertfordshire" venue="Manor of Groves Hotel" url="https://www.ukweddingsavings.co.uk/wedding-venues-in-hertfordshire/manor-of-groves-hotel.php"/>
+	<marker lat="51.270673" lng="0.097015" county="Kent" venue="Westerham Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/westerham-golf-club.php"/>
+	<marker lat="51.090962" lng="0.689640" county="Kent" venue="Little Silver Country Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/little-silver-country-hotel.php"/>
+	<marker lat="51.146034" lng="0.311766" county="Kent" venue="Mercure Tunbridge Wells" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/mercure-tunbridge-wells.php"/>
+	<marker lat="51.234277" lng="0.354644" county="Kent" venue="Hadlow Manor" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/hadlow-manor.php"/>
+    <marker lat="51.480708" lng="-0.007309" county="London"	venue="De Vere Devonport House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/de-vere-devonport-house.php"/>
+	<marker lat="51.515650" lng="-0.120532" county="London"	venue="De Vere Connaught Rooms" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/de-vere-connaught-rooms.php"/>
+    <marker lat="51.457092" lng="0.048524" county="London"	venue="Tudor Barn Eltham" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/tudor-barn-eltham.php"/>
+    <marker lat="52.248818" lng="-1.201025" county="Northamptonshire" venue="De Vere Staverton Estate" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-northamptonshire/de-vere-staverton-estate.php"/>
+	<marker lat="53.024547" lng="-1.310761" county="Nottinghamshire" venue="De Vere Eastwood Hall" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-nottinghamshire/de-vere-eastwood-hall.php"/>
+	<marker lat="51.608417" lng="-1.315702" county="Oxfordshire" venue="De Vere Milton Hill" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-oxfordshire/de-vere-milton-hill.php"/>
+	<marker lat="51.712563" lng="-1.228698" county="Oxfordshire" venue="De Vere Oxford Thames" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-oxfordshire/de-vere-oxford-thames.php"/>
+	<marker lat="51.740659" lng="-1.251895" county="Oxfordshire" venue="Oxford Spires Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-oxfordshire/oxford-spires-hotel.php"/>
+	<marker lat="51.862140" lng="-1.225988" county="Oxfordshire" venue="Manor Country House Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-oxfordshire/manor-country-house-hotel.php"/>
+	<marker lat="51.264632" lng="-0.431999" county="Surrey" venue="Horsley Towers" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/de-vere-horsley-estate.php"/>
+	<marker lat="51.286331" lng="-0.109394" county="Surrey" venue="Surrey National Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/surrey-national-golf-club.php"/>
+	<marker lat="51.300306" lng="-0.051836" county="Surrey" venue="Woldingham Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/woldingham-golf-club.php"/>
+	<marker lat="51.339097" lng="-0.062147" county="Surrey" venue="De Vere Selsdon Estate" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/de-vere-selsdon-estate.php"/>
+    <marker lat="51.237426" lng="-0.264302" county="Surrey" venue="De Vere Hartsfield Manor" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/hartsfield-manor.php"/>
+	<marker lat="51.249614" lng="-0.202695" county="Surrey" venue="Reigate Manor Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/reigate-manor-hotel.php"/>
+	<marker lat="52.393095" lng="-1.253654" county="Warwickshire" venue="Brownsover Hall" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-warwickshire/brownsover-hall.php"/>
+	
+	<!-- DRY HIRE -->
+	<marker lat="51.517346" lng="-0.188508" county="London" venue="Porchester Hall (Dry Hire Only)" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/porchester-hall.php"/>
+    
+</markers>
+
+
+
+<!--<marker lat="53.238213" lng="-4.144141" county="Anglesey" venue="Chateau Rhianfa" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-north-wales/chateau-rhianfa.php"/>-->
+<!--<marker lat="55.315938" lng="-4.577694" county="Ayrshire" venue="Blairquhan Castle" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-ayrshire/blairquhan-castle.php"/>-->
+
+<!--<marker lat="52.028936" lng="-0.377468" county="Bedfordshire" venue="Beadlow Manor Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-bedfordshire/beadlow-manor-golf-club.php"/>-->
+<!--<marker lat="51.503012" lng="-0.752706" county="Berkshire" venue="Lillibrooke Manor" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-berkshire/lillibrooke-manor.php"/>-->
+<!--<marker lat="51.449252" lng="-0.575559" county="Berkshire" venue="Beaumont Estate" url="http://www.ukweddingsavings.co.uk/last-minute/beaumont-estate-hotel.php"/>-->
+<!--<marker lat="51.385079" lng="-1.034637" county="Berkshire" venue="Wokefield Park Hotel" url="http://www.ukweddingsavings.co.uk/last-minute/de-vere-wokefield-park.php"/>-->
+<!--<marker lat="51.539224" lng="-2.523775" county="Bristol" venue="Mercure Bristol North Grange" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-bristol/mercure-bristol-north-grange.php"/>-->
+<!--<marker lat="51.554489" lng="-0.811310" county="Buckinghamshire" venue="Harleyford Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-buckinghamshire/harleyford-golf-club.php"/>-->
+<!--<marker lat="51.597591" lng="-0.511646" county="Buckinghamshire" venue="De Vere Denham Grove" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-buckinghamshire/de-vere-denham-grove.php"/>-->
+<!--<marker lat="52.103577" lng="-0.679779" county="Buckinghamshire" venue="Chicheley Hall" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-buckinghamshire/chicheley-hall.php"/>-->
+<!--<marker lat="51.615485" lng="-0.836555" county="Buckinghamshire" venue="The Pavilion at Lane End" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-buckinghamshire/pavilion-at-lane-end.php"/>-->
+<!--<marker lat="51.586980" lng="-0.564377" county="Buckinghamshire" venue="The Bull Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-buckinghamshire/the-bull-hotel.php"/>-->
+<!--<marker lat="51.959777" lng="-0.841767" county="Buckinghamshire" venue="De Vere Horwood House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-buckinghamshire/de-vere-horwood-house.php"/>-->
+
+<!--<marker lat="52.173598" lng="0.109482" county="Cambridgeshire" venue="Anstey Hall" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-cambridgeshire/anstey-hall.php"/>-->
+<!--<marker lat="52.172863" lng="0.109409" county="Cambridgeshire" venue="Anstey Hall (Dry Hire Only)" url="http://www.ukweddingsavings.co.uk/venue-hire-only/anstey-hall.php"/>-->
+<!--<marker lat="53.216881" lng="-2.917460" county="Cheshire" venue="Mollington Banastre Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-cheshire/mollington-banastre-hotel.php"/>-->
+<!--<marker lat="53.211339" lng="-2.376485" county="Cheshire" venue="De Vere Cranage Estate" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-cheshire/de-vere-cranage-estate.php"/>-->
+<!--<marker lat="49.966324" lng="-6.304110" county="Cornwall" venue="Karma St Martins Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-cornwall/karma-st-martins-hotel.php"/>-->
+
+<!--<marker lat="52.872461" lng="-1.639254" county="Derbyshire" venue="Hilton House Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-derbyshire/hilton-house-hotel.php"/>-->
+<!--<marker lat="53.387599" lng="-1.907884" county="Derbyshire" venue="Upper House Hayfield" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-derbyshire/upper-house-hayfield.php"/>-->
+<!--<marker lat="52.825274" lng="-1.324648" county="Derbyshire" venue="Jury's Inn East Midlands" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-derbyshire/jurys-inn-east-midlands.php"/>-->
+<!--<marker lat="53.103604" lng="-1.323429" county="Derbyshire" venue="De Vere Derbyshire Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-derbyshire/de-vere-derbyshire-hotel.php"/>-->
+<!--<marker lat="50.890908" lng="-3.877487" county="Devon" venue="Fox and Hounds Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-devon/fox-and-hounds-hotel.php"/>-->
+<!--<marker lat="50.797870" lng="-1.987502" county="Dorset" venue="Deans Court" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-dorset/deans-court.php"/>-->
+<!--<marker lat="50.707329" lng="-1.926315" county="Dorset" venue="Italian Villa Compton Acres" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-dorset/italian-villa-compton-acres.php"/>-->
+<!--<marker lat="55.065598" lng="-3.168493" county="Dumfriesshire" venue="Springkell" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-dumfriesshire/springkell.php"/>-->
+
+<!--<marker lat="55.915862" lng="-3.020930" county="Edinburgh" venue="Carberry Tower" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-edinburgh/carberry-tower.php"/>-->
+<!--<marker lat="55.951465" lng="-3.216375" county="Edinburgh" venue="The Bonham Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-edinburgh/the-bonham-hotel.php"/>-->
+<!--<marker lat="55.951582" lng="-3.206631" county="Edinburgh" venue="The Roxburghe Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-edinburgh/the-roxburghe-hotel.php"/>-->
+<!--<marker lat="51.612038" lng="0.609279" county="Essex" venue="The Rayleigh Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-essex/the-rayleigh-club.php"/>-->
+<!--<marker lat="51.777593" lng="0.703396" county="Essex" venue="Forrester Park" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-essex/forrester-park.php"/>-->
+<!--<marker lat="51.612909" lng="0.278510" county="Essex" venue="Marygreen Manor Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-essex/marygreen-manor-hotel.php"/>-->
+<!--<marker lat="51.500647" lng="0.313031" county="Essex" venue="Radisson Thurrock Park Inn" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-essex/radisson-thurrock-park-inn.php"/>-->
+<!--<marker lat="51.500661" lng="0.304821" county="Essex" venue="Stifford Hall Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-essex/stifford-hall-hotel.php"/>-->
+
+<!--<marker lat="53.479532" lng="-2.256527" county="Greater Manchester" venue="Victoria and Albert Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-greater-manchester/victoria-albert-hotel.php"/>-->
+<!--<marker lat="51.460552" lng="-3.167607" county="Glamorgan" venue="St. Davids Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-glamorgan/st-davids-hotel.php"/>-->
+<!--<marker lat="52.029346" lng="-2.088547" county="Gloucestershire" venue="Upper Court Kemerton (Dry Hire Only)" url="http://www.ukweddingsavings.co.uk/venue-hire-only/upper-court-kemerton.php"/>-->
+
+<!--<marker lat="50.988277" lng="-1.286723" county="Hampshire" venue="Marwell Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hampshire/marwell-hotel.php"/>-->
+<!--<marker lat="50.918646" lng="-1.195319" county="Hampshire" venue="De Vere New Place" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hampshire/de-vere-new-place.php"/>-->
+<!--<marker lat="51.350091" lng="-0.890166" county="Hampshire" venue="De Vere Warbrook House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hampshire/de-vere-warbrook-house.php"/>-->
+<!--<marker lat="51.279183" lng="-0.754879" county="Hampshire" venue="The Aviator Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hampshire/the-aviator-hotel.php"/>-->
+<!--<marker lat="50.896994" lng="-1.406958" county="Hampshire" venue="The Royal Thai Pier" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hampshire/royal-thai-pier.php"/>-->
+<!--<marker lat="51.338632" lng="-0.964687" county="Hampshire" venue="Highfield Park" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hampshire/highfield-park.php"/>-->
+<!--<marker lat="50.899699" lng="-1.407714" county="Hampshire" venue="Grand Harbour Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hampshire/grand-harbour-hotel.php"/>-->
+<!--<marker lat="51.776778" lng="-0.072789" county="Hertfordshire" venue="Brickendonbury Centre" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hertfordshire/brickendonbury-centre.php"/>-->
+<!--<marker lat="51.787475" lng="-0.414096" county="Hertfordshire" venue="Aubrey Park Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hertfordshire/aubrey-park-hotel.php"/>-->
+<!--<marker lat="51.912686" lng="-0.208494" county="Hertfordshire" venue="Hotel Cromwell" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hertfordshire/hotel-cromwell.php"/>-->
+<!--<marker lat="51.930703" lng="-0.243176" county="Hertfordshire" venue="Needham House Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-hertfordshire/needham-house-hotel.php"/>-->
+
+<!--<marker lat="51.075674" lng="0.999665" county="Kent" venue="Port Lympne Mansion" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/port-lympne-mansion.php"/>-->
+<!--<marker lat="51.266606" lng="0.587307" county="Kent" venue="Tudor Park Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/tudor-park-hotel.php"/>-->
+<!--<marker lat="51.087679" lng="1.081241" county="Kent" venue="Hayne Barn House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/hayne-barn-house.php"/>-->
+<!--<marker lat="51.084592" lng="0.912868" county="Kent" venue="St. Augustines Priory" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/staugustines-priory.php"/>-->
+<!--<marker lat="51.378636" lng="1.335774" county="Kent" venue="St. Augustines Cathedral" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/staugustines-cathedral.php"/>-->
+<!--<marker lat="51.322380" lng="0.249019" county="Kent" venue="Woodlands Manor Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/woodlands-manor-golf-club.php"/>-->
+<!--<marker lat="51.271312" lng="0.496906" county="Kent" venue="Oakwood House Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/oakwood-house-hotel.php"/>-->
+<!--<marker lat="51.090962" lng="0.690186" county="Kent" venue="Little Silver Country Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/little-silver-country-hotel.php"/>-->
+<!--<marker lat="51.118021" lng="1.092297" county="Kent" venue="Etchinghill Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/etchinghill-golf-club.php"/>-->
+<!--<marker lat="51.259757" lng="0.569806" county="Kent" venue="The Orchard Suite" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/the-orchard.php"/>-->
+<!--<marker lat="51.201237" lng="0.393617" county="Kent" venue="The Hop Farm" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-kent/the-hop-farm.php"/>-->
+
+<!--<marker lat="53.621669" lng="-2.421128" county="Lancashire" venue="Mercure Last Drop Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-lancashire/mercure-last-drop-village-hotel.php"/>-->
+<!--<marker lat="52.801182" lng="-0.887562" county="Leicestershire" venue="Scalford Hall Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-leicestershire/scalford-hall-hotel.php"/>-->
+<!--<marker lat="53.560064" lng="-0.120820" county="Lincolnshire" venue="Humber Royal Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-lincolnshire/humber-royal-hotel.php"/>-->
+<!--<marker lat="53.678963" lng="-0.674500" county="Lincolnshire" venue="Walcot Hall Estate" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-lincolnshire/walcot-hall-estate.php"/>-->
+<!--<marker lat="51.506675" lng="-0.004823" county="London" venue="Edwardian New Providence Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/edwardian-new-providence-hotel.php"/>-->
+<!--<marker lat="51.456979" lng="0.049250" county="London" venue="Tudor Barn Eltham" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/tudor-barn-eltham.php"/>-->
+<!--<marker lat="51.509704" lng="-0.134094" county="London" venue="Criterion Restaurant" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/criterion-restaurant.php"/>-->
+<!--<marker lat="51.519124" lng="-0.121844" county="London" venue="The Bloomsbury Ballroom" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/the-bloomsbury-ballroom.php"/>-->
+<!--<marker lat="51.515267" lng="-0.159289" county="London" venue="The Montcalm Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/the-montcalm-hotel.php"/>-->
+<!--<marker lat="51.514301" lng="-0.101458" county="London" venue="Stationers Hall" url="http://www.ukweddingsavings.co.uk/venue-hire-only/stationers-hall.php"/>-->
+<!--<marker lat="51.495784" lng="-0.281151" county="London" venue="VUK Banqueting Suite" url="http://www.ukweddingsavings.co.uk/venue-hire-only/vuk-banqueting-suite.php"/>-->
+<!--<marker lat="51.484502" lng="-0.004882" county="London" venue="The Trafalgar Tavern" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/trafalgar-tavern.php"/>-->
+<!--<marker lat="51.515895" lng="-0.120749" county="London" venue="Kingsway Hall Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/kingsway-hall-hotel.php"/>-->
+<!--<marker lat="51.669937" lng="-0.077635" county="London" venue="Forty Hall Banqueting" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-middlesex/forty-hall-banqueting.php"/>-->
+<!--<marker lat="51.518919" lng="-0.180895" county="London" venue="Lockhouse" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/lockhouse.php"/>-->
+<!--<marker lat="51.499376" lng="-0.161086" county="London"	venue="Searcys at 30 Pavilion Road" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/searcys-of-knightsbridge.php"/>-->
+<!--<marker lat="51.467035" lng="-0.224969" county="London" venue="Star and Garter" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-london/star-and-garter.php"/>-->
+
+<!--<marker lat="51.520027" lng="-0.488234" county="Middlesex" venue="The Mallard Suite" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-middlesex/mallard-suite.php"/>-->
+<!--<marker lat="51.402166" lng="-0.442262" county="Middlesex" venue="Sunbury Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-middlesex/sunbury-golf-centre.php"/>-->
+
+<!--<marker lat="52.336472" lng="-0.959554" county="Northamptonshire" venue="Highgate Country House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-northamptonshire/highgate-country-house.php"/>-->
+<!--<marker lat="52.295110" lng="-0.921236" county="Northamptonshire" venue="De Vere Sedgebrook Hall" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-northamptonshire/de-vere-sedgebrook-hall.php"/>-->
+
+<!--<marker lat="51.787626" lng="-1.284085" county="Oxfordshire" venue="Jury Inn Oxford Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-oxfordshire/jurys-inn-oxford-hotel.php"/>-->
+<!--<marker lat="51.941220" lng="-1.098203" county="Oxfordshire" venue="Stratton Court Barn (Dry Hire Only)" url="http://www.ukweddingsavings.co.uk/venue-hire-only/stratton-court-barn.php"/>-->
+
+<!--<marker lat="56.380565" lng="-3.855225" county="Perthshire" venue="Knock Castle Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-perthshire/knock-castle-hotel.php"/>-->
+
+<!--<marker lat="52.757431" lng="-2.747344" county="Shropshire" venue="Mercure Albrighton Hall" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-shropshire/mercure-albrighton-hall-hotel.php"/>-->
+<!--<marker lat="52.643016" lng="-2.451411" county="Shropshire" venue="Madeley Court Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-shropshire/madeley-court-hotel.php"/>-->
+<!--<marker lat="52.981670" lng="-2.681178" county="Shropshire" venue="Macdonald Hill Valley Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-shropshire/macdonald-hill-valley-hotel.php"/>-->
+<!--<marker lat="52.826277" lng="-1.587295" county="Staffordshire" venue="Mercure Newton Park Hotel." url="http://www.ukweddingsavings.co.uk/wedding-venues-in-staffordshire/mercure-newton-park-hotel.php"/>-->
+<!--<marker lat="51.274314" lng="-2.919723" county="Somerset" venue="Rookery Manor" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-somerset/rookery-manor.php"/>-->
+<!--<marker lat="52.341210" lng="0.508367" county="Suffolk" venue="Riverside House Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-suffolk/riverside-house-hotel.php"/>-->
+<!--<marker lat="51.395266" lng="-0.319286" county="Surrey" venue="Hampton Court Palace Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/hampton-court-palace-golf-club.php"/>-->
+<!--<marker lat="51.338929" lng="-0.061567" county="Surrey" venue="Selsdon Park Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/selsdon-park.php"/>-->
+<!--<marker lat="51.226160" lng="-0.722326" county="Surrey" venue="Legacy Farnham Hogs Back" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/legacy-farnham-hogs-back.php"/>-->
+<!--<marker lat="51.419081" lng="-0.278931" county="Surrey" venue="Kingston Lodge Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/kingston-lodge-hotel.php"/>-->
+<!--<marker lat="51.199176" lng="-0.534640" county="Surrey" venue="Barnett Hill Country House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/barnett-hill-country-house.php"/>-->
+<!--<marker lat="51.301662" lng="-0.597654" county="Surrey" venue="De Vere Gorse Hill" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/de-vere-gorse-hill.php"/>-->
+<!--<marker lat="51.316643" lng="-0.362796" county="Surrey" venue="Woodlands Park Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/woodlands-park-hotel.php"/>-->
+<!--<marker lat="51.210906" lng="-0.395905" county="Surrey" venue="De Vere Wotton House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/de-vere-wotton-house.php"/>-->
+<!--<marker lat="51.289897" lng="-0.189336" county="Surrey" venue="Surrey Downs Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/surrey-downs-golf-club.php"/>-->
+<!--<marker lat="51.238261" lng="-0.567178" county="Surrey" venue="Guildford Radisson Blu Spa" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/edwardian-guildford-hotel.php"/>-->	
+<!--<marker lat="51.254293" lng="-0.322671" county="Surrey" venue="Mercure Burford Bridge Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/mercure-burford-bridge-hotel.php"/>-->
+<!--<marker lat="50.821999" lng="-0.153098" county="Sussex" venue="Alfresco Brighton" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-sussex/alfresco-brighton.php"/>-->
+<!--<marker lat="51.235807" lng="-0.142428" county="Surrey" venue="Nutfield Priory Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/nutfield-priory-hotel.php"/>-->
+<!--<marker lat="51.245622" lng="-0.096502" county="Surrey" venue="Bletchingley Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/bletchingley-golf-club.php"/>-->
+<!--<marker lat="51.423813" lng="-0.272483" county="Surrey" venue="Warren House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-surrey/warren-house.php"/>-->
+<!--<marker lat="50.896710" lng="0.270226" county="Sussex" venue="Blackstock Barn" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-sussex/blackstock-barns.php"/>-->
+<!--<marker lat="50.985520" lng="0.114006" county="Sussex" venue="Buxted Park Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-sussex/buxted-park-hotel.php"/>-->
+<!--<marker lat="50.761853" lng="0.279559" county="Sussex" venue="All Saints Chapel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-sussex/all-saints-chapel.php"/>-->
+<!--<marker lat="51.152094" lng="-0.027300" county="Sussex" venue="Yew Lodge Country House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-sussex/yew-lodge-country-house.php"/>-->
+
+<!--<marker lat="52.559147" lng="-1.709501" county="Warwickshire" venue="Marston Farm Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-warwickshire/marston-farm-hotel.php"/>-->
+<!--<marker lat="52.344459" lng="-1.550010" county="Warwickshire" venue="Woodside Mansion" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-warwickshire/woodside-mansion.php"/>-->
+<!--<marker lat="52.291360" lng="-1.528306" county="Warwickshire" venue="The Episode Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-warwickshire/the-episode-hotel.php"/>-->
+<!--<marker lat="52.560932" lng="-2.129538" county="West Midlands" venue="Ramada Park Hall Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-west-midlands/ramada-park-hall-hotel.php"/>-->
+<!--<marker lat="51.512479" lng="-1.772587" county="Wiltshire" venue="De Vere Alexander House" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-wiltshire/de-vere-alexandra-house.php"/>-->
+<!--<marker lat="52.148395" lng="-2.242070" county="Worcestershire" venue="Stanbrook Abbey Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-worcestershire/stanbrook-abbey-hotel.php"/>-->
+
+<!--<marker lat="53.799993" lng="-1.546746" county="Yorkshire" venue="Radisson Blu Hotel Leeds" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-yorkshire/radisson-blu-leeds.php"/>-->
+<!--<marker lat="54.456839" lng="-1.255416" county="Yorkshire" venue="Rudby Hall" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-yorkshire/rudby-hall.php"/>-->
+<!--<marker lat="53.677110" lng="-1.257078" county="Yorkshire" venue="Darrington Golf Club" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-yorkshire/darrington-golf-club.php"/>-->
+<!--<marker lat="53.591559" lng="-1.843401" county="Yorkshire" venue="Durker Roods Hotel" url="http://www.ukweddingsavings.co.uk/wedding-venues-in-yorkshire/durker-roods-hotel.php"/>-->

@@ -1,0 +1,29 @@
+.font-50 {
+    font-size: 50px;
+}
+.font-32 {
+    font-size: 32px;
+}
+.font-22 {
+    font-size: 22px;
+}
+.bck-black {
+    background: #000000;
+}
+.bck-white {
+    background: #ffffff;
+}
+.txt-white {
+    color: #ffffff;
+}
+
+
+
+.image-cover {
+	background: url('http://www.simplywed.co.uk/external/leads-new/images/background.jpg') no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: auto;
+	border-top: 1px #FFFFFF solid;
+}

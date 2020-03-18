@@ -1,0 +1,219 @@
+/* *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+} */
+html{ 
+    overflow-y: scroll; 
+}
+.required{
+    color: red;
+    font-weight: 800;
+    /*font-size: 1.1rem;*/
+}
+.test{
+    color: red;
+}
+.cms-bg-success{
+    background-color: #dcfadf;
+    padding-bottom: 0.3rem;
+    padding-top: 0.3rem;
+}
+.cms-bg-danger{
+    background-color: #ffe3e3;
+    padding-bottom: 0.3rem;
+    padding-top: 0.3rem;
+}
+.cms-bg-yellow{
+    background-color:#fcd572;
+    padding-bottom: 0.3rem;
+    padding-top: 0.3rem;
+}
+.days{
+    padding-right: 10px;
+}
+.calendar{
+    font-size: 0.9rem;
+}
+.isvisible{
+    display: none;
+}
+
+.fa-li i {
+    color: #bc84ca;
+}
+/*================= TEXTAREA STYLE =======*/
+.jqte_toolbar{
+  box-sizing: content-box;
+}
+.jqte_tool_1{
+  box-sizing: content-box;
+}
+.jqte{
+  box-sizing: content-box;
+}
+.jqte a{
+  box-sizing: content-box;
+}
+
+/*================= checkbox style =======*/
+input[type = "checkbox"] + label{
+    display: block;
+    margin-top:0.3rem;
+    cursor: pointer;
+    padding-left:1rem;
+    height: 30px;
+}
+input[type = "checkbox"]{
+    display: none;
+    margin-right: 1rem;
+    width:2rem;
+    height:2rem;
+}
+input[type="checkbox"] + label:before{
+    content: "\2713";
+    display: flex;
+    border: 0.06em solid #ced4da;
+    display:inline-block;
+    margin-top:1px;
+    border-radius:0.2em;
+    background-color: #fff;
+    /*opacity: 0.3;*/
+    line-height: 1.6rem;
+    width:1.7rem;
+    height:1.7rem;
+    padding-left:-1rem;
+    padding-bottom:1.5em;
+    /*margin-right:0.3em;*/
+    vertical-align: bottom;
+    text-align: center;
+    color:transparent;
+    transition: .2s;
+}
+input[type="checkbox"] + label:active:before{
+    transform: scale(0);
+    /*vertical-align: top;*/
+}
+
+input[type="checkbox"]:checked + label:before{
+   background-color: #fff;
+   color:#000;
+   opacity: 1;
+   padding-bottom:0.8em;
+   vertical-align:central;
+   font-size: 1.1rem;
+   font-weight: 600;
+   border: 0.1em solid #aaa;
+}
+/*============== RESPONSIVE TABEL STYLE =================*/
+@media screen and (max-width: 990px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+/*================ DATEPIKER STYLE==============*/
+
+.datepicker td{
+    background: #e97225;
+    color: #ffffff;
+    border-radius:0 !important; 
+    border: 1px solid #ffffff !important;
+    width: 30px !important;
+    height: 30px !important;
+}
+.datepicker th{
+    color: #ffffff;
+    border-radius:0 !important;
+}
+.datepicker th:hover{
+    color: #5b2c86;
+}
+.datepicker td:hover{
+/*    background: #5b2c86;*/
+}
+thead tr:nth-child(2){
+    color: #ffffff;
+    background: #5b2c86;
+    
+}
+thead tr:nth-child(3){
+    color: #ffffff;
+    background: #e97225;
+    border: 1px solid #ffffff;
+    border-bottom: 0.2rem solid #ffffff;
+}
+.datepicker table tr td.new, .datepicker table tr td.old {
+    background: #f09051;
+    color: #ffffff !important;
+}
+.datepicker table tr td.new:hover{
+    background: #5b2c86;
+}
+
+thead tr th{
+    border-radius:0 !important;
+}
+thead tr th:hover{
+    color: #5b2c86;
+}
+tfoot tr th {
+     background: #5b2c86;
+    border-radius:0 !important;
+}
+tfoot tr th:hover{
+    color: #5b2c86;
+}
+.day:hover{
+    background:#5b2c86 !important; 
+}
+.datepicker table tr td span.focused, .datepicker table tr td span:hover {
+    background: #5b2c86;
+}
+.datepicker table tr td.disabled, .datepicker table tr td.disabled:hover{
+    color: #ffffff !important;
+    background: #5b2c86 !important;
+}

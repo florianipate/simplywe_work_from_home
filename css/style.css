@@ -1,0 +1,183 @@
+.font-32 {
+    font-size: 32px;
+}
+.font-30 {
+    font-size: 30px;
+}
+.font-26 {
+    font-size: 26px;
+}
+.font-22 {
+    font-size: 22px;
+}
+.font-20 {
+    font-size: 20px;
+}
+.font-18 {
+    font-size: 18px;
+}
+.font-16 {
+    font-size: 16px;
+}
+.font-14 {
+    font-size: 14px;
+}
+.txt-red {
+    color: #ff0000;
+}
+.txt-orange {
+    color: #e97225;
+}
+.txt-purple {
+    color: #5b2c86;
+}
+.txt-white {
+    color: #ffffff;
+}
+.bck-white {
+    background: #ffffff;
+}
+.bck-grey {
+    background: #f2f2f2;
+}
+.bck-orange {
+    background: #e97225;
+}
+.bck-pink {
+    background: #bc84ca;
+}
+.bck-purple {
+    background: #5b2c86;
+}
+.border-t-purple {
+    border-top: 2px solid #5b2c86;
+}
+.border-b-purple {
+    border-bottom: 2px solid #5b2c86;
+}
+
+
+
+
+label {
+    font-size: 22px;
+}
+.button {
+    width: 100%;
+    padding: 6px 6px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+.button:hover {
+    text-decoration: none;
+    color: #cccccc;
+}
+.button i {
+    font-size: 24px;
+}
+.btn-orange {
+    background: #e97225;
+    font-weight: bold;
+    color: #ffffff;
+}
+.btn-purple {
+    background: #5b2c86;
+    border: 0px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.progress {
+    background: #e8c3f1 !important;
+}
+.progress-bar {
+    background: #5b2c86 !important;
+}
+
+
+
+
+.fa-li i {
+    color: #bc84ca;
+}
+#venueImages .carousel-control-prev-icon, #venueImages .carousel-control-next-icon {
+    width: 30px !important;
+    height: 50px !important;
+    margin: 0px 5px !important;
+    border-radius: 0 !important;
+    background-color: #ba40b9 !important;
+}
+#venueThumbnails .carousel-control-prev-icon, #venueThumbnails .carousel-control-next-icon {
+    width: 30px !important;
+    height: 50px !important;
+    margin: 0px 5px !important;
+    border-radius: 0 !important;
+    background-color: #ba40b9 !important;
+}
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+
+
+
+.datepicker td {
+    background: #e97225;
+    color: #ffffff;
+    border-radius:0 !important; 
+    border: 1px solid #ffffff !important;
+    width: 30px !important;
+    height: 30px !important;
+}
+.datepicker th {
+    color: #ffffff;
+    border-radius:0 !important;
+}
+.datepicker th:hover {
+    color: #5b2c86;
+}
+thead tr:nth-child(2) {
+    color: #ffffff;
+    background: #5b2c86;
+}
+thead tr:nth-child(3) {
+    color: #ffffff;
+    background: #e97225;
+    border: 1px solid #ffffff;
+    border-bottom: 0.2rem solid #ffffff;
+}
+.datepicker table tr td.new, .datepicker table tr td.old {
+    background: #f09051;
+    color: #ffffff !important;
+}
+.datepicker table tr td.new:hover {
+    background: #5b2c86;
+}
+thead tr th {
+    border-radius:0 !important;
+}
+thead tr th:hover {
+    color: #5b2c86;
+}
+tfoot tr th {
+    background: #5b2c86;
+    border-radius:0 !important;
+}
+tfoot tr th:hover {
+    color: #5b2c86;
+}
+.day:hover {
+    background:#5b2c86 !important; 
+}
+.datepicker table tr td span.focused, .datepicker table tr td span:hover {
+    background: #5b2c86;
+}
+.datepicker table tr td.disabled, .datepicker table tr td.disabled:hover {
+    color: #ffffff !important;
+    background: #5b2c86 !important;
+}
